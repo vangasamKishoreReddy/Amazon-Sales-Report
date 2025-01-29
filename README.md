@@ -7,7 +7,7 @@ This project performs Exploratory Data Analysis (EDA) on an Amazon Sales Report 
 
 Dataset Information
 
-File Name: Amazon Sale Report.csv (raw dataset), cleaned_dataset.csv (processed dataset)
+File Name: Amazon Sale Report.csv (raw dataset), cleaned.csv (processed dataset)
 
 Encoding: ISO-8859-1
 
