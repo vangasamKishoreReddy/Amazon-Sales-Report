@@ -1,4 +1,4 @@
-# Amazon-Sales-Report
+## Amazon-Sales-Report
 Exploratory Data Analysis (EDA) on Amazon Sales Report
 
 Project Overview
